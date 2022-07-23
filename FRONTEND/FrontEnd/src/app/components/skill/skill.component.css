@@ -1,0 +1,13 @@
+.row{
+    background-color: rgb(192, 156, 156);
+    padding: 25px;
+    padding-right: 39px;
+}
+
+
+h2{
+    color:black;
+    font-size: 10mm;
+    font-family: 'Square Peg';
+    padding: 50px;
+}

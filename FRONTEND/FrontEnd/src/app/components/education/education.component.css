@@ -1,0 +1,34 @@
+@media (min-width: 576px){
+    .row{
+        background-color: rgb(219, 178, 173);
+        padding: 25px;
+        padding-right: 39px;   
+    }
+}
+
+@media (max-width: 576px){
+    
+    .row{
+        background-color: rgb(240, 106, 92);
+        padding: 30px;
+        padding-left: 44px;
+        padding-right: 42px;
+         
+    }         
+}
+
+.primerP, .segundoP{
+    display: inline;
+}
+
+.text-eduti {
+    color: rgb(0, 0, 0);
+    font-family: 'Square Peg';
+    font-size: 10mm;
+
+}
+
+.text-edu {
+    color: white;
+
+}
