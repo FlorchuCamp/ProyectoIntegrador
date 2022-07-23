@@ -1,0 +1,35 @@
+@media (min-width: 576px){
+    .row{
+        background-color: rgb(247, 181, 173);
+        padding: 25px;
+        padding-right: 39px;   
+    }
+}
+
+@media (max-width: 576px){
+    
+    .row{
+        background-color: rgb(247, 181, 173);
+        padding:30px;
+        padding-left: 44px;
+        padding-right: 42px;
+         
+    }         
+}
+
+
+h3, .primerP, .segundoP{
+    display: inline;
+}
+
+.text-expti{
+    color: rgb(36, 36, 34);
+    font-family: 'Square Peg';
+    font-size: 10mm;
+
+}
+
+.text-exp {
+    color: white;
+
+}
